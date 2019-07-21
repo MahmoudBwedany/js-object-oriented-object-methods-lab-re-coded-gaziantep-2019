@@ -13,15 +13,16 @@ class BoardMember {
   }
   
   approve () {
-    return ("You can do that!")
+    return ("You can do that!");
   }
   
   doCharity () {
-    return "I like to help people."
+    return ("I like to help people.");
   }
   
   releasePressStatement (){
-    return ("")
+    return ("You will see great things from Scuber");
+    
   }
   
 }
